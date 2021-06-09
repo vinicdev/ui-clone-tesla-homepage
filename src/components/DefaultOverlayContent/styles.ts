@@ -32,7 +32,7 @@ export const Buttons = styled.div`
     justify-content: center;
     align-items: center;
 
-    margin-bottom: 200px;
+    margin-bottom: 125px;
 
     > button {
         background: #1a1720;
